@@ -1,0 +1,28 @@
+{
+  "name": "node-rackspace-email",
+  "version": "0.0.1",
+  "description": "A nodejs module to manage rackspace email accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/br8kpoint/node-rackspace-email.git"
+  },
+  "keywords": [
+    "rackspace",
+    "email",
+    "management"
+  ],
+  "author": "Mike Fair",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d493fbcf3d091725dea360ee7117768e0e9bb456",
+  "dependencies": {
+    "swiz": "*"
+    , "request": "*"
+    , "xtend": "*"
+    , "moment": "*"
+  }
+}
